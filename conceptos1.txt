@@ -1,0 +1,58 @@
+GIT PUSH
+-El comando git push te permite subir los commits desde tu rama (branch) local en tu repositorio git local al repositorio remoto. Freecodecamp.2021
+-El comando git push, sirve para subir todos los cambios, de tu repositorio local, al repositorio en github.
+
+GIT PULL
+- Es un comando de Git utilizado para actualizar la versión local de un repositorio desde otro remoto. Freecodecamp.2021
+-Git pull sirve principalmente para traer todos los cambios, o archivos de un repositorio remoto hacia uno local, osea hacia nuestra computadora.
+
+GIT BRANCH
+-Git Branch se define como un comando del sistema de Git que permite crear, listar o eliminar ramas del sistema, según sea necesario. Además, esta herramienta contribuye a facilitar la organización de múltiples versiones de una aplicación. Keepcoding.2022
+-El comando git branch sirve principalmente para crear otras ramas en git, y asi ir haciendo cambios sin afectar la version original.
+
+GIT CHECKOUT
+-El comando git checkout cambia entre ramas o restaura los archivos del árbol de trabajo (working tree). Freecodecamp. 2021
+-El comando git checkout sirve para cambiar entre ramas.
+
+GIT FORK
+- Este sistema hace uso del recurso de fork en Git o bifurcación, que tiene la función de crear la copia de un determinado repositorio en la cuenta de usuario. Keepcoding.2022
+- Esta opcion de github es practicamente hacer una copiar de un repositorio remoto de cualquier persona, a tu github.
+
+GIT MERGE
+- En los casos de uso más frecuentes, git merge se utiliza para combinar dos ramas. Atlassian. 2023
+- Este comando sirve para combinar dos ramas.
+
+QA
+-En términos más técnicos, QA es un proceso que abarca diversas actividades para garantizar la calidad del software. Este proceso incluye:
+
+Pruebas de software: Se realizan pruebas para detectar errores y asegurar que el software funciona como se espera.
+Control de calidad: Se verifican los requisitos de calidad del software y se toman medidas para corregir cualquier desviación.
+Garantía de calidad: Se establecen procesos y procedimientos para asegurar que el software se desarrolla de acuerdo con los estándares de calidad.
+
+ProgramacionPro. 2024
+
+-En terminos mas simples, son diversos procesos que aseguran la calidad del software en cuestion.
+
+TESTING O PRUEBAS
+-El testing o pruebas de software es, básicamente, un proceso por el que se comprueba que algo funciona como esperamos que lo haga. En el mundo del desarrollo de software se trata de probar que una pieza de nuestro código funciona correctamente. Secture.2022
+-Son pruebas que se hacen para verificar que el software funcione como deberia funcionar y corregir errores.
+
+DEBUGGIN O DEPURACION
+-La depuración es el proceso de encontrar y solucionar errores en el código fuente de cualquier software. Cuando un software no funciona tal y como se espera, los programadores de computadoras estudian el código para determinar por qué ocurren algunos errores. Con este objetivo, los programadores utilizan herramientas de depuración para ejecutar el software en un entorno controlado, comprobar el código paso a paso y analizar y solucionar el error. AwsAmacon.2023
+-Hace referencia a encontrar errores en el codigo, y solucionarlos.
+
+METODOLOGIA DE PROYECTOS
+-Una metodología de desarrollo de software es una manera de gestionar un plan de desarrollo de programa. Un procedimiento de desarrollo de programa principalmente aborda preguntas como la selección de propiedades para incluirlas en la versión de hoy, en qué momento se lanzará el programa, quién labora en qué y qué pruebas se hacen. Desarrollodesoftware.dev .2022
+-Sirve para agilizar el desarrollo de software, agilizar los procesos y aumentar la eficiencia del software.
+
+METODOLOGIA EN CASCADA
+-En este enfoque, el desarrollo se divide en etapas secuenciales, donde cada etapa debe completarse antes de pasar a la siguiente. Las etapas típicas en la metodología en cascada incluyen el análisis de requisitos, el diseño, la implementación, las pruebas y el mantenimiento. Esta metodología es adecuada para proyectos con requisitos claros y estables, pero puede volverse rígida cuando se requieren cambios en etapas posteriores. Informatecdigital.2023
+-Esta metodología consiste en que cada etapa debe completarse para que se puede avanzar a la siguiente etapa.
+
+METODOLOGIAS AGILES
+-La metodología ágil es una filosofía y conjunto de principios que promueven la entrega rápida, iterativa e incremental de software. Los equipos ágiles se enfocan en la colaboración, la adaptabilidad y la entrega de valor al cliente. Las metodologías ágiles más conocidas incluyen Scrum, Kanban y Extreme Programming (XP). Estas metodologías fomentan la comunicación efectiva, la transparencia y la mejora continua, permitiendo a los equipos responder rápidamente a los cambios y satisfacer las necesidades del cliente de manera más efectiva. Informatecdigital.2023
+-La metodologia agil su enfoque principal es hacerlo rapido y bien, mediante reuniones, colaboraciones, etc.
+
+ITERACION
+-En el mundo de la programación, una iteración es cuando un conjunto de instrucciones, características o actividades se repiten una o varias veces hasta que una condición se cumple o deja de cumplirse. Así pues, cuando el conjunto de instrucciones se repite, se entiende el proceso de código como una iteración. Aun así, cuando se sigue repitiendo de forma indefinida, se registra un loop o un bucle.Keepcoding.2022
+- Iterar es dar una cierta orden que se repite muchas veces, hasta que una cierta condicion dada anteriormente se cumpla.
